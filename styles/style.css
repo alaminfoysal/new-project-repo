@@ -1,0 +1,80 @@
+header{
+    text-align: center;
+    font-family: sans-serif;
+    background-image:url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+   
+   width: 1320px;
+    height:600px;
+    margin:auto;
+}
+.banner-text{
+    color: #bda9a9;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+
+}
+.content-text{
+    color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+color:red;
+
+}
+.pregarip-text{
+    text-align: center;
+    font-size: 22px;
+    color:red;
+    font-weight: 400;
+}
+.text-p{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600px;    
+
+}
+.img-text{
+    text-align: center;
+    width:auto;
+    height: auto;
+
+
+}
+
+.Welcome{
+    background-image:url(../B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin:140px 120px;
+    background-position: center;
+   
+}
+.prity-text{
+    font-size: 64px;
+    color:#FFF;
+    font-weight: 900;
+    line-height: 88px;
+    padding:126px 552px 298px 126px;
+}
+.paddig-text{
+    padding:326px 497px 126px 214px;
+}
+
+
+
+
+  
+
+
+
+
+
+
+
+
+ 
+
+ 
+   
